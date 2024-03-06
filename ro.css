@@ -1,0 +1,33 @@
+body {
+background-image:url('wf.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+    }
+.contact {
+    padding: 0;
+    padding-top: 9%;
+    padding-left: 20%;
+    display: flex;
+
+
+}
+.contact form{
+margin-left:300px;
+
+
+}
+.contact form input{
+display: block;
+margin-top: 30px;
+margin: 2px 60px 30px 0;
+width: 150%;
+height: 35px;
+border-radius: 10px;
+font-family: 'Times New Roman', Times, serif;
+border-top-style: none;
+border-left-color: lightgoldenrodyellow;
+border-left-width: 2px;
+border-bottom-width: 2px;
+border-bottom-color: coral;  
+}
+
